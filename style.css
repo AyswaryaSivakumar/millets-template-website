@@ -1,0 +1,18 @@
+#carousel-example-generic .imgCarousel {
+	width: 60rem;
+	height: 40rem;
+}
+
+.imgMillet {
+	width: 40rem;
+	height: 20rem;
+}
+
+#products ul {
+	list-style: none;
+	font-weight: 800;
+}
+
+.section-img {
+	margin: 0 auto;
+}
